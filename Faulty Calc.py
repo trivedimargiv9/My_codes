@@ -23,18 +23,3 @@ else:
         print('4')
     else:
         print(num1/num2)
-
-
-
-
-
-
-
-# if num1 == 45 and num2 == 3 and operater == '*':
-#     return 555
-
-# elif num1 == 56 and num2 == 9 and operater == '+':
-#     return 77
-
-# elif num1 == 56 and num2 == 6 and operater == '/':
-#     return 4
